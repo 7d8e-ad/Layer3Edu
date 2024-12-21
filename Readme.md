@@ -5,6 +5,8 @@ Layer3Edu is a decentralized learning platform built on the Ethereum blockchain.
 
 ## Contract Address
 0x67c03D5986438f18b09F530ffEdC8F4861fA3ffa
+![image](https://github.com/user-attachments/assets/7d94d88d-7040-4671-95bd-c41f0b1e5bcb)
+
 
 ## Project Vision
 Our vision is to revolutionize online education by providing a decentralized platform where:
